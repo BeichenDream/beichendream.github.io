@@ -3,5 +3,6 @@ core.annotation
 core.imp
 core.shell
 core.ui
+core.ui.component.dialog
+core.ui.imp
 util
-util.http
